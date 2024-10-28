@@ -1,8 +1,4 @@
 Como usar o Git e Github na prática
-Início do vídeo
-Oie gente sejam bem vindos a mais um vídeo aqui do canal, eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
-
-No vídeo anterior eu expliquei os conceitos de alguns termos técnicos que utilizamos quando estamos usando o git, então nesse vídeo vou mostrar na prática como isso acontece.
 
 Instalando o GIT
 Link com os downloads
